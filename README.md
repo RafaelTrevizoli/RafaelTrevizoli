@@ -6,3 +6,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaelTrevizoli&theme=radical)
 
+## Sobre mim:
+- 👨‍💻 Sou um desenvolvedor em treinamento full-stack
+- 🔥 Apaixonado por aprender e experimentar novas tecnologias
+- 🎯 Objetivos: Contribuir com projetos open-source e obter experiência em projetos desafiadores.
+
