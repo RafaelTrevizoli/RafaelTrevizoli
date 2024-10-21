@@ -9,7 +9,7 @@
 - 🔥 Apaixonado por aprender e experimentar novas tecnologias
 - 🎯 Objetivos: Contribuir com projetos open-source e obter experiência em projetos desafiadores.
 
-<img alt="GIF de Hacker Codando" src="https://media.giphy.com/media/5GoVLqeAOo6PKnIa9q/giphy.gif" width="400" />
+![Codando](https://media.giphy.com/media/l3vR7gNgxvEy1o0be/giphy.gif)
 
 ## 🛠️ Linguagens de Programação
 
