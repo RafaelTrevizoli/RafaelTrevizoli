@@ -1,5 +1,6 @@
 ## Olá! Meu nome é Rafael 👋
 
+<img align="right" alt="GIF de Codando" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelTrevizoli&show_icons=true&theme=radical)
 
