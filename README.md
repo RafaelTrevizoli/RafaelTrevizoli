@@ -11,5 +11,5 @@
 
 <img alt="GIF de Codando" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" />
 
-![GitHub Commits](https://img.shields.io/github/commit-activity/y/SeuNomeDeUsuario/SeuRepositorio?label=Commits&color=blue&style=flat-square)
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/RafaelTrevizoli/SeuRepositorio?label=Commits&color=blue&style=flat-square)
 
