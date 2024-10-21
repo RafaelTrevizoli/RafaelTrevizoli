@@ -11,3 +11,6 @@
 
 <img alt="GIF de Codando" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" />
 
+## 🛠️ Linguagens de Programação
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&theme=radical)
