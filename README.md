@@ -9,7 +9,7 @@
 - 🔥 Apaixonado por aprender e experimentar novas tecnologias
 - 🎯 Objetivos: Contribuir com projetos open-source e obter experiência em projetos desafiadores.
 
-![Codando](https://media.giphy.com/media/l3vR7gNgxvEy1o0be/giphy.gif)
+<img alt="GIF de Codando" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
 
 ## 🛠️ Linguagens de Programação
 
