@@ -10,3 +10,6 @@
 - 🎯 Objetivos: Contribuir com projetos open-source e obter experiência em projetos desafiadores.
 
 <img alt="GIF de Codando" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" />
+
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/SeuNomeDeUsuario/SeuRepositorio?label=Commits&color=blue&style=flat-square)
+
