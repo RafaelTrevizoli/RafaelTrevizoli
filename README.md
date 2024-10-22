@@ -11,7 +11,6 @@
 ## ⚡ Git Stats ⚡
 <div>
   <a href="https://github.com/RafaelTrevizoli">
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&langs_count=7&theme=algolia"/>
   <img height="140em" src="https://streak-stats.demolab.com?user=RafaelTrevizoli&theme=algolia" alt="GitHub Streak" />  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTrevizoli&theme=algolia">
