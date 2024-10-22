@@ -1,5 +1,5 @@
 <img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=120a8f&section=header&reversal=false'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=ADD8E6&center=true&multiline=true&random=false&width=1000&lines=Ol%C3%A1+%2C+seja+bem+vindo+ao+meu+Github" alt="Typing SVG" /></a></b>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=ADD8E6&center=true&multiline=true&random=false&width=1000&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+Github" alt="Typing SVG" /></a></b>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RafaelTrevizoli/RafaelTrevizoli/blob/output/github-contribution-grid-snake-dark.svg" />
