@@ -20,7 +20,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=algolia">
 </div>
 
-## Sobre mim:
+## ⚡Sobre mim ⚡
 - 👨‍💻 Sou um desenvolvedor em treinamento full-stack
 - 🔥 Apaixonado por aprender e experimentar novas tecnologias
 - 🎯 Objetivos: Contribuir com projetos open-source e obter experiência em projetos desafiadores.
