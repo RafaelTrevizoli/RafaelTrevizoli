@@ -13,7 +13,7 @@
   <a href="https://github.com/RafaelTrevizoli">
   <img loading="lazy" height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&langs_count=7&theme=algolia"/>
   <img height="169em" src="https://streak-stats.demolab.com?user=RafaelTrevizoli&theme=algolia" alt="GitHub Streak" />  
-  <img height="169em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=algolia">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTrevizoli&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTrevizoli&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=algolia">
