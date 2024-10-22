@@ -11,13 +11,13 @@
 ## ⚡ Git Stats ⚡
 <div>
   <a href="https://github.com/RafaelTrevizoli">
-  <img loading="lazy" height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="169em" src="https://streak-stats.demolab.com?user=RafaelTrevizoli&theme=algolia" alt="GitHub Streak" />  
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTrevizoli&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTrevizoli&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=algolia">
+  <img loading="lazy" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="182em" src="https://streak-stats.demolab.com?user=RafaelTrevizoli&theme=algolia" alt="GitHub Streak" />  
+  <img height="215em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=algolia">
+  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTrevizoli&theme=algolia">
+  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTrevizoli&theme=algolia">
+  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=algolia">
+  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=algolia">
 </div>
 
 ## ⚡ Sobre mim ⚡
