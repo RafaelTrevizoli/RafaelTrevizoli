@@ -2,8 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=F35A61&center=true&multiline=true&random=false&width=1000&lines=Ol%C3%A1+%2C+seja+bem+vindo+ao+meu+Github" alt="Typing SVG" /></a></b>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RamonLarcherRibeiro/RafaelTrevizoli/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RafaelTrevizoli/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RafaelTrevizoli/RafaelTrevizoli/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RafaelTrevizoli/RafaelTrevizoli/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture></br>
 
