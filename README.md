@@ -17,14 +17,14 @@
   <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTrevizoli&theme=algolia">
   <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=algolia">
   <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=algolia">
-</div>
+</div></br></br>
 
 ## ⚡ Sobre mim ⚡
 - 👨‍💻 Sou um desenvolvedor em treinamento full-stack
 - 🔥 Apaixonado por aprender e experimentar novas tecnologias
 - 🎯 Objetivos: Contribuir com projetos open-source e obter experiência em projetos desafiadores.
 
-<img alt="GIF de Codando" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
+<img alt="GIF de Codando" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" /></br></br>
 
 ## 🛠️ Linguagens de Programação
 
