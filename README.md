@@ -11,11 +11,11 @@
   <a href="https://github.com/RafaelTrevizoli">
   <img loading="lazy" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&langs_count=7&theme=algolia"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=RafaelTrevizoli&show_icons=true&hide_title=true&count_private=true&theme=algolia" alt="GitHub Stats" />
-  <img height="215em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=algolia">
-  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTrevizoli&theme=algolia">
-  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTrevizoli&theme=algolia">
-  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=algolia">
-  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=algolia">
+  <img height="231em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=algolia">
+  <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTrevizoli&theme=algolia">
+  <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTrevizoli&theme=algolia">
+  <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=algolia">
+  <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=algolia">
 </div></br></br>
 
 ## ⚡ About Me ⚡
