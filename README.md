@@ -14,8 +14,8 @@
 ## ⚡ Git Stats ⚡
 <div align="center">
   <a href="https://github.com/RafaelTrevizoli">
-    <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&langs_count=7&theme=tokyonight" />
-    <img height="182em" src="https://github-readme-stats.vercel.app/api?username=RafaelTrevizoli&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" />
+    <img height="242em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&langs_count=7&theme=tokyonight" />
+    <img height="284em" src="https://github-readme-stats.vercel.app/api?username=RafaelTrevizoli&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" />
     <img height="231em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=tokyonight" />
     <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTrevizoli&theme=tokyonight" />
     <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTrevizoli&theme=tokyonight" />
