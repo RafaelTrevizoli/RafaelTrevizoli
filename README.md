@@ -9,34 +9,42 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RafaelTrevizoli/RafaelTrevizoli/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RafaelTrevizoli/RafaelTrevizoli/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> <br><br><br>
 
-## ⚡ Git Stats ⚡
+<div align="center">
+   <h1>⚡ Git Stats ⚡</h1>
+</div>
+
 <div align="center">
   <a href="https://github.com/RafaelTrevizoli">
-    <img height="242em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelTrevizoli&layout=compact&langs_count=7&theme=tokyonight" />
-    <img height="284em" src="https://github-readme-stats.vercel.app/api?username=RafaelTrevizoli&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" />
     <img height="231em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=tokyonight" />
-    <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelTrevizoli&theme=tokyonight" />
-    <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelTrevizoli&theme=tokyonight" />
     <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=tokyonight" />
     <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=tokyonight" />
   </a>
+</div><br><br><br>
+
+<div align="center">
+   <h1>⚡ About me ⚡</h1>
 </div>
 
-## ⚡ About Me ⚡
 - 👨‍💻 I am a full-stack developer in training  
 - 🔥 Passionate about learning and experimenting with new technologies  
 - 🎯 Goals: Contribute to open-source projects and gain experience with challenging projects  
+<br>
+<div align="center">
+  <img alt="Coding GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="790" />
+</div><br><br><br>
+
 
 <div align="center">
-  <img alt="Coding GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
+   <h1>⚙️ Langs And Tool ⚙️</h1>
 </div>
 
-## 🛠️ Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-1f1f1f?style=flat-square&logo=python&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/-Django-1f1f1f?style=flat-square&logo=django&logoColor=00FFAA" />
-  <img src="https://img.shields.io/badge/-JavaScript-1f1f1f?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-PHP-1f1f1f?style=flat-square&logo=php&logoColor=8993be" />
+<div align=center>
+  <h3>Programing Langs</h3>
+    <img src="https://skillicons.dev/icons?i=python,django,js,php">
+  <h3>Databases</h3>
+   <img src="https://skillicons.dev/icons?i=mysql">
+  <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,pycharm">
 </div>
