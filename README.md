@@ -27,9 +27,9 @@
    <h1>⚡ About me ⚡</h1>
 </div>
 
-- 👨‍💻 I am a full-stack developer in training  
-- 🔥 Passionate about learning and experimenting with new technologies  
-- 🎯 Goals: Contribute to open-source projects and gain experience with challenging projects  
+👨‍💻 I am a full-stack developer in training  
+🔥 Passionate about learning and experimenting with new technologies  
+🎯 Goals: Contribute to open-source projects and gain experience with challenging projects  
 <br>
 <div align="center">
   <img alt="Coding GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="790" />
