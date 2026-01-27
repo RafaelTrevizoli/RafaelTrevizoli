@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=117&color=1a1a2e&section=header&reversal=false" style="width:100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=117&color=E20612&section=header&reversal=false" style="width:100%" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=00FFFF&center=true&multiline=true&random=false&width=1000&lines=Hello%2C+Welcome+to+my+GitHub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=E20612&center=true&multiline=true&random=false&width=1000&lines=Hello%2C+Welcome+to+my+GitHub" alt="Typing SVG" />
   </a>
 </div>
 
