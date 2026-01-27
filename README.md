@@ -17,9 +17,9 @@
 
 <div align="center">
   <a href="https://github.com/RafaelTrevizoli">
-    <img height="231em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=tokyonight" />
-    <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=tokyonight" />
-    <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=tokyonight" />
+    <img height="231em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=radical" />
+    <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=radical" />
+    <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=radical" />
   </a>
 </div><br><br><br>
 
