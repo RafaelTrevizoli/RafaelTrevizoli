@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,redis">
   <h3>Programing Langs</h3>
     <img src="https://skillicons.dev/icons?i=python,django,js,php,laravel,vue">
-  <h3>operating systems</h3>
+  <h3>Operating systems</h3>
     <img src="https://skillicons.dev/icons?i=linux,arch,mint,kali">
   <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=github,git,docker,gcp,vercel,pycharm,phpstorm,vscode">
