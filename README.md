@@ -12,10 +12,6 @@
 </picture> <br><br><br>
 
 <div align="center">
-   <h1>⚡ Git Stats ⚡</h1>
-</div>
-
-<div align="center">
   <a href="https://github.com/RafaelTrevizoli">
     <img height="231em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=radical" />
     <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=radical" />
@@ -24,7 +20,7 @@
 </div><br><br><br>
 
 <div align="center">
-   <h1>⚡ About me ⚡</h1>
+   <h1>About me</h1>
 </div>
 
 👨‍💻 I am a full-stack developer in training  
@@ -37,7 +33,7 @@
 
 
 <div align="center">
-   <h1>⚙️ Langs And Tool ⚙️</h1>
+   <h1>Langs And Tool</h1>
 </div>
 
 <div align=center>
