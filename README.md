@@ -20,20 +20,20 @@
 </div><br><br><br>
 
 <div align="center">
-   <h1>About me</h1>
+   <h1>Sobre mim</h1>
 </div>
 
-👨‍💻 I am a full-stack developer in training  
-🔥 Passionate about learning and experimenting with new technologies  
-🎯 Goals: Contribute to open-source projects and gain experience with challenging projects  
+👨‍💻 Sou um desenvolvedor full stack em formação  
+🔥 Apaixonado por aprender e experimentar novas tecnologias  
+🎯 Objetivos: Contribuir para projetos open source e ganhar experiência com projetos desafiadores  
 <br>
 <div align="center">
-  <img alt="Coding GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="790" />
+  <img alt="GIF de Programação" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="790" />
 </div><br><br><br>
 
 
 <div align="center">
-   <h1>Langs And Tool</h1>
+   <h1>Linguagens e Ferramentas</h1>
 </div>
 
 <div align=center>
