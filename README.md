@@ -9,7 +9,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RafaelTrevizoli/RafaelTrevizoli/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RafaelTrevizoli/RafaelTrevizoli/blob/output/github-contribution-grid-snake.svg" />
-</picture> <br><br><br>
+</picture> <br><br><br><br>
 
 <div align="center">
   <a href="https://github.com/RafaelTrevizoli">
