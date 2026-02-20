@@ -19,7 +19,7 @@
   </a>
 </div><br><br><br>
 
-<div align="center">
+<div align="center" >
    <h1>Sobre mim</h1>
 </div>
 
