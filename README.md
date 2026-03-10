@@ -15,9 +15,9 @@
    <h1>Sobre mim</h1>
 </div>
 
-👨‍💻 Sou um desenvolvedor full stack em formação  
-🔥 Apaixonado por aprender e experimentar novas tecnologias  
-🎯 Objetivos: Contribuir para projetos open source e ganhar experiência com projetos desafiadores  
+ Sou um desenvolvedor full stack em formação  
+ Apaixonado por aprender e experimentar novas tecnologias  
+ Objetivos: Contribuir para projetos open source e ganhar experiência com projetos desafiadores  
 <br>
 <div align="center">
   <img alt="GIF de Programação" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="790" />
