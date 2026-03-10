@@ -11,15 +11,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RafaelTrevizoli/RafaelTrevizoli/blob/output/github-contribution-grid-snake.svg" />
 </picture> <br><br><br><br>
 
-<div align="center">
-  <a href="https://github.com/RafaelTrevizoli">
-    <img height="231em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelTrevizoli&theme=radical" />
-    <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelTrevizoli&theme=radical" />
-    <img height="237em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelTrevizoli&theme=radical" />
-  </a>
-</div><br><br><br>
-
-<div align="center" >
+<div>
    <h1>Sobre mim</h1>
 </div>
 
@@ -32,11 +24,11 @@
 </div><br><br><br>
 
 
-<div align="center">
+<div>
    <h1>Linguagens e Ferramentas</h1>
 </div>
 
-<div align=center>
+<div>
   <h3>Banco de Dados</h3>
     <img src="https://skillicons.dev/icons?i=mysql,redis">
   <h3>Linguagens de Programação</h3>
