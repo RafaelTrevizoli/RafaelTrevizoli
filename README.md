@@ -15,9 +15,8 @@
    <h1>Sobre mim</h1>
 </div>
 
- Sou um desenvolvedor full stack em formação  
- Apaixonado por aprender e experimentar novas tecnologias  
- Objetivos: Contribuir para projetos open source e ganhar experiência com projetos desafiadores  
+ Sou um desenvolvedor full stack junior, atualmente trabalho em um projeto ERP inovador na empresa Roxo.ai 
+ Focado em aprender stacks novas e aprimorar minhas habilidades e formas de pensar
 <br>
 <div align="center">
   <img alt="GIF de Programação" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="790" />
