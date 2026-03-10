@@ -38,3 +38,7 @@
   <h3>Ferramentas</h3>
     <img src="https://skillicons.dev/icons?i=github,git,docker,gcp,vercel,pycharm,phpstorm,vscode">
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E20612&section=footer" style="width:100%" />
+</div>
