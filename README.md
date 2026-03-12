@@ -30,8 +30,10 @@
 <div>
   <h3>Banco de Dados</h3>
     <img src="https://skillicons.dev/icons?i=mysql,redis">
-  <h3>Linguagens e Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=python,django,js,php,laravel,vue">
+  <h3>Linguagens</h3>
+    <img src="https://skillicons.dev/icons?i=python,js,php">
+  <h3>Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=django,vue,laravel">
   <h3>Sistemas Operacionais</h3>
     <img src="https://skillicons.dev/icons?i=linux,arch,mint,kali">
   <h3>Ferramentas</h3>
