@@ -16,7 +16,7 @@
 </div>
 
  Sou um desenvolvedor full stack junior, atualmente trabalho em um projeto ERP inovador na empresa Roxo.ai <br>
- Focado em aprender stacks novas e aprimorar minhas habilidades e formas de pensar
+ Focado em aprender stacks novas, aprimorar minhas habilidades e formas de pensar
 <br>
 <div align="center">
   <img alt="GIF de Programação" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="790" />
